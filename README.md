@@ -4,6 +4,7 @@
 
 ---
 
+
 ## Overview
 
 This project is aimed at automating waste segregation using artificial intelligence. By leveraging computer vision and convolutional neural networks (CNNs), it can classify waste images (e.g., cardboard, glass, metal, paper, plastic, trash) to promote accurate recycling and sustainable waste management.
